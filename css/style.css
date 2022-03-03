@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&family=Kaushan+Script&family=Mulish:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Andika+New+Basic&family=Fredoka+One&family=Kaushan+Script&family=Mulish:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Artifika&family=Eagle+Lake&family=Fredoka+One&family=Mulish:wght@200&display=swap');
+
+.caja1{
+    width: 800px;
+    font-family: 'Artifika', serif;
+    background: linear-gradient(#5e7ec4, #99db8b);
+    margin: 20px 30px;
+    padding: 30px 30px;
+    box-shadow: 3px 3px 7px #999999;
+}
+
+.caja1 img{
+    width: 150px;
+    border: 7px solid #FFFFFF;
+    border-radius: 50%;
+    float: left;
+    margin-right: 20px;}
