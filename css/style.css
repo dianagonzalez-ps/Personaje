@@ -305,7 +305,7 @@ body{
     color:var(--white-color);
     text-align: justify;
     font-size: 22px;
-    font-weight: bold;
+    font-weight: lighter;
 }
 
 .caja4{
@@ -342,6 +342,6 @@ body{
     color:var(--white-color);
     text-align: justify;
     font-size: 22px;
-    font-weight: bold;
+    font-weight: lighter;
 }
 
